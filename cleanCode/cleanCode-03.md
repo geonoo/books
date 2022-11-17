@@ -56,5 +56,5 @@ if (attributeExists("username")) {
  - 함수는 return 문이 하나여야 한다. 
  - 루프 안에서 break나 continue를 사용해선 안되며 goto는 절대로 안 된다.
  
- #### 함수를 어떻게 짜죠?
+ #### 함수를 어떻게 짤까?
  - 처음부터 잘 짤 순 없다 그저 고처나갈 
